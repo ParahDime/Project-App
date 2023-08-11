@@ -1,0 +1,16 @@
+{
+    "Name": "Matt",
+    "Personality": "Kind",
+    "NumPulse": 3,
+    "Diam": 300,
+    "Speed": 10,
+    "Duration": 2000,
+    "Opacity": 50,
+    "Colour": ["YellowGreen", "DodgerBlue"],
+    "AccountAge": 0,
+    "Commands": 55
+
+    
+    
+}
+

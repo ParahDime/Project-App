@@ -1,0 +1,23 @@
+Screens
+    Sleeping
+        Linked to Main
+        Not in tabs
+        Onpress of [] change text, wait, go to Main
+
+    Main
+
+        Bot name/response
+        middle response
+        bottom, type text, 
+
+        other button
+
+    Settings
+        Bot pfp (non change)
+        Bot name
+        Bot commands inputted (successful)
+
+        Bot ID (1-4)
+        Text size
+        
+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

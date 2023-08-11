@@ -1,0 +1,16 @@
+{
+    "Username": "User",
+    "Commands": 0,
+    "Acc age": 1,
+    "Achievements": 0,
+    "FontSize": 20,
+    "FontWeight": "bold",
+    "FontColour": "green",
+    "BackgroundColour": "#1e90ff",
+    
+    "textSizes": ["Small", "Medium", "Large", "Extra Large"],
+    "textWeight": ["Normal", "Bold"],
+    "textColour": ["black", "blue", "green", "red"],
+    "botName": ["Matt", "Elise"],
+    "botPic": ["Matt.jpg", "Elise.jpg"]
+}
